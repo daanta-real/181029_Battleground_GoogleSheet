@@ -2,7 +2,7 @@
 
 Auto-played Battleground game on Google Spreadsheet.
 
-The game goes automatically through the scheduler. Every day starts in morning, and finishes at night
+The game goes automatically through the scheduler. Every day starts in morning, and finishes at night.
 
 The game balance is adjusted so that the day's game ends as close to 11 o'clock as possible through the adjustment of various internal calculations.
 
