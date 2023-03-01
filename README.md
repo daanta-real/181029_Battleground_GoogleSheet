@@ -9,3 +9,9 @@ The game balance is adjusted so that the day's game ends as close to 11 o'clock 
 See GIF example below to how it runs
 
 ![sample](https://user-images.githubusercontent.com/84055731/201952732-d0a03108-91d5-40ac-9880-9fe454edd4ae.gif)
+
+# TL;DR
+
+Purpose of making: To increase the study time of study members by showing an advantage in the game as much as they have studied for a long time
+
+Time taken to create: Rough 6 weeks (Released after 2 weeks + Improvement in 4 weeks)
